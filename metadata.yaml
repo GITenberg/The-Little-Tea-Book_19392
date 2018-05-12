@@ -1,0 +1,46 @@
+_repo: The-Little-Tea-Book_19392
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Gray, Arthur
+    birthdate: 1859
+    gutenberg_agent_id: '8680'
+    url: http://www.gutenberg.org/2009/agents/8680
+  illustrator:
+    agent_name: Hood, George Washington
+    aliases:
+    - Hood, G. W.
+    - Hood, George W.
+    birthdate: 1869
+    deathdate: 1949
+    gutenberg_agent_id: '8642'
+    url: http://www.gutenberg.org/2009/agents/8642
+covers:
+- cover_type: archival
+  image_path: 19392-h/images/teacover.png
+description: ''
+gutenberg_issued: '2006-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19392'
+  lccn: 03024966
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tea'
+- !lcc 'GT'
+- !lcc 'SB'
+tableOfContents: The origin of tea -- Tea [poem] / by Francis Saltus Saltus -- little
+  cups of Chinese and Japanese tea -- On tea [poem] / by Edmund Waller -- Some English
+  tea history -- O tea! [poem] / Arthur Gray -- Tea terms (Japanese. Chinese) -- Tea
+  leaves / by John Ernest McCann -- Wit, wisdom and humor of tea -- Fate / Churchill
+  -- Tea making and taking in Japan and China -- Tea-drinking in other lands -- The
+  tea-table -- Ladies, literature and tea -- On our English poetry and this poem upon
+  tea / R. B. -- To the author on his poem upon tea / T. W. -- Poems from J. Roberts
+  pamphlet (London, 1700) -- Dr. Johnson's affinity -- Earliest mention of tea --
+  Australian tea -- Five o'clock tea -- Tea in ladies' novels -- Sydney Smith -- Dr.
+  Johnson again -- A cup of tea [poem] / Helen Gray Cone.
+title: The Little Tea Book
+url: http://www.gutenberg.org/ebooks/19392
